@@ -15,5 +15,5 @@ Copyright 2016 WP Media
 defined( 'ABSPATH' ) or die( 'Cheatin\' uh?' );
 
 //  defines
-define( 'SENSEIN_PLUGIN_VERSION'	 			 , '1.0' );
+define( 'SENSEI_PLUGIN_VERSION'	 			 , '1.0' );
 
